@@ -1,0 +1,2 @@
+$ git clone [ssh-url] [folder-name] 
+$ cd [folder-name]
